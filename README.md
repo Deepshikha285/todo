@@ -1,32 +1,32 @@
-📌 To-Do List (Console-Based)
+To-Do List (Console-Based)
 A simple command-line To-Do List application written in Python. It allows users to add, view, and remove tasks with persistence using a text file.
 
-🛠️ Tech Stack
+Tech Stack
 Language: Python 3
 
 Editor: VS Code / Terminal
 
 Storage: Plain text file (tasks.txt)
 
-🚀 Features
-✅ Add new tasks
+1.Features
+2.Add new tasks
 
-📋 View existing tasks
+3. View existing tasks
 
-🗑️ Remove completed or unwanted tasks
+4.Remove completed or unwanted tasks
 
-💾 Saves tasks to a file (tasks.txt) for persistent storage
+5.Saves tasks to a file (tasks.txt) for persistent storage
 
-📂 File Structure
+* File Structure
 bash
 Copy
 Edit
-📁 your_project_directory/
+* your_project_directory/
 │
 ├── todo.py         # Main Python script
 ├── tasks.txt       # Automatically created to store tasks (if not present)
 └── README.md       # Project documentation
-▶️ How to Run
+How to Run
 1. Clone or download this repository
 bash
 Copy
@@ -40,7 +40,8 @@ Edit
 python todo.py
 Make sure you have Python 3 installed. You can check by running python --version.
 
-📸 Sample Usage
+Sample Usage
+
 pgsql
 Copy
 Edit
@@ -51,14 +52,15 @@ Edit
 4. Exit
 Choose an option (1-4): 2
 Enter a new task: Buy groceries
-✅ Task added: Buy groceries
-📄 tasks.txt
+
+Task added: Buy groceries
+
+tasks.txt
 All tasks are stored in a plain text file named tasks.txt. This file is automatically created in the same directory as the script.
+Future Improvements (Optional Ideas)
+Mark tasks as completed 
 
-💡 Future Improvements (Optional Ideas)
-Mark tasks as completed ✅
-
-Add due dates or priorities ⏰
+Add due dates or priorities 
 
 Use JSON or SQLite for advanced storage
 
