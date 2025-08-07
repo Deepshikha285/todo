@@ -10,17 +10,12 @@ Storage: Plain text file (tasks.txt)
 
 1.Features
 2.Add new tasks
-
-3. View existing tasks
-
+3.View existing tasks
 4.Remove completed or unwanted tasks
-
 5.Saves tasks to a file (tasks.txt) for persistent storage
 
 * File Structure
-bash
-Copy
-Edit
+
 * your_project_directory/
 │
 ├── todo.py         # Main Python script
@@ -28,23 +23,16 @@ Edit
 └── README.md       # Project documentation
 How to Run
 1. Clone or download this repository
-bash
-Copy
-Edit
-git clone https://github.com/your-username/todo-console-app.git
+
+git clone (https://github.com/Deepshikha285/News_Scraper)
 cd todo-console-app
 2. Run the app
-bash
-Copy
-Edit
+
 python todo.py
 Make sure you have Python 3 installed. You can check by running python --version.
 
 Sample Usage
 
-pgsql
-Copy
-Edit
 === To-Do List Menu ===
 1. View tasks
 2. Add task
