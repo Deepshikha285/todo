@@ -4,7 +4,7 @@ A simple command-line To-Do List application written in Python. It allows users 
 Tech Stack
 Language: Python 3
 
-Editor: VS Code / Terminal
+Editor: VS Code / Terminal/ pycharm
 
 Storage: Plain text file (tasks.txt)
 
@@ -24,7 +24,7 @@ Storage: Plain text file (tasks.txt)
 How to Run
 1. Clone or download this repository
 
-git clone (https://github.com/Deepshikha285/News_Scraper)
+git clone (https://github.com/Deepshikha285/todo)
 cd todo-console-app
 2. Run the app
 
